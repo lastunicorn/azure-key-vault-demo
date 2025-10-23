@@ -11,4 +11,4 @@ The Key Vault needs to be created inside a resource group and then assign permis
 
 ## II) Access the Azure Key Vault
 
-TBD (see the code)
+4. [Access the secret](04-access-key-vault.md)
