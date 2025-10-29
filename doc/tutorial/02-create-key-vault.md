@@ -6,11 +6,11 @@
 
 ## 2) Create a resource
 
-![Create a resource](C:\Projects.pet\@Azure Pills\azure-vault\doc\create-resource-group-01-create-a-resource.png)
+![Create a resource](create-resource-group-01-create-a-resource.png)
 
 ## 3) Choose "Key Vault"
 
-![Create Key Vault](C:\Projects.pet\@Azure Pills\azure-vault\doc\create-key-vault-02-key-vault.png)
+![Create Key Vault](create-key-vault-02-key-vault.png)
 
 ## 4) Configure
 

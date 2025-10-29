@@ -6,7 +6,7 @@
 
 ## 2) Create a resource
 
-![Create a resource](C:\Projects.pet\@Azure Pills\azure-vault\doc\create-resource-group-01-create-a-resource.png)
+![Create a resource](create-resource-group-01-create-a-resource.png)
 
 ## 3) Choose "Resource group"
 
@@ -24,9 +24,7 @@ Choose to create a new resource group
 
 - Choose the Subscription (I am using the "Visual Studio Professional Subscription")
 - Choose a name for the new resource group: `key-vault-demo-rg`
-- Key vault name: `key-vault-20251022-kv`
 - Region: `West Europe`
-  - Make sure it is the same region as the resource group
 
 ![Configure - Basic](create-resource-group-04-configure-basic.png)
 
